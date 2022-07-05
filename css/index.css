@@ -1,0 +1,112 @@
+#id-div-todo-create {
+    display: none;
+}
+
+#id-div-todo-info {
+    display: none;
+}
+
+.active {
+    display: block!important;
+}
+
+h1 {
+    color: rgba(0,0,0,0.7);
+    text-align: center;
+}
+
+#container {
+    /* border: 1px solid red; */
+    width:300px;
+}
+
+#controller {
+    /* border: 1px solid red; */
+    width: 300px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#page {
+    /* border: 1px solid red; */
+    text-align: center;
+    /* width: 500px; */
+    /* overflow: hidden; */
+}
+
+#id-button-create-todo {
+    width: 145px;
+    position: relative;
+    left: -2px;
+}
+
+#id-button-todo-info {
+    width: 145px;
+    position: relative;
+    right: -2px;
+}
+
+.todo-cell {
+    padding-top: 5px;
+}
+
+.todo-tittle {
+    color: rgba(0,0,0,0.7);
+    padding-left: 4px;
+}
+
+#id-input-update {
+    width: 50%;
+    margin-top: 3px;
+}
+
+#id-button-add {
+    padding-left: 8px;
+    padding-right: 8px;
+    /* margin-top: 3px; */
+    position: relative;
+    top: 3px;
+    left: 2px;
+}
+
+#id-div-todo-info {
+    color: rgba(0,0,0,0.7);
+    text-align: center;
+    font-size: 30px;
+}
+#id-div-todolist {
+    /* border: 1px solid red; */
+    width: 400px;
+    /* margin: 0 auto; */
+    /* float: left; */
+    text-align: left;
+}
+.todo-cell {
+    /* border: 1px solid red; */
+    position: relative;
+    left: 200px;
+    margin-top: 3px;
+}
+#id-todo-edit-form {
+    /* border: 1px solid red; */
+    /* width: 200px; */
+    /* position: relative;
+    left: 78px; */
+    /* float: left; */
+}
+
+#id-input-update {
+    width: 30%;
+    margin-top: 6px;
+}
+
+#id-button-update {
+    position: relative;
+    top: 3px;
+}
+
+span {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 2px;
+}

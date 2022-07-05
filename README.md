@@ -1,2 +1,2 @@
 # js-todo
-![image](.js/todo.gif)
+![image](./js-todo.gif)
